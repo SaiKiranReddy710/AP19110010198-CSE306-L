@@ -1,5 +1,0 @@
-Identifiers:
-l1
-l2
-i
-count
